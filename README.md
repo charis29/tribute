@@ -1,2 +1,2 @@
 # tribute
-freecodecamp tribute page
+Tribute page for Morris the cat developed for FreeCodeCamp project.
